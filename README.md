@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 <br>I'm HMV, a passionate Web Developer who thrives on building clean, scalable, and high-performing applications with the latest technologies. I specialize in modern web development, crafting seamless user experiences, and turning ideas into innovative solutions.</h2>
+<h2 align="left">Hi 👋 <br>I'm HARSHITH MV, a passionate Web Developer who thrives on building clean, scalable, and high-performing applications with the latest technologies. I specialize in modern web development, crafting seamless user experiences, and turning ideas into innovative solutions.</h2>
 
 ###
 
