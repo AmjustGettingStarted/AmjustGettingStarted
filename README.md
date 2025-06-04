@@ -10,7 +10,6 @@
 ###
 
 <div align="justify">
-  <p>&emsp;Here are some of the tools and technologies I've been learning and working with:</p>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="nextjs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="65" alt="tailwindcss logo" />
