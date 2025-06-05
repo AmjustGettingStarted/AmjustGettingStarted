@@ -20,7 +20,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Languages</h3>
+      <h3 align="left">🧠 Languages</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
@@ -30,7 +30,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Frameworks & Libraries</h3>
+      <h3 align="left">⚙️ Frameworks & Libraries</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"/>
@@ -42,13 +42,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💾 Databases</h3>
-      <p align="center">
+      <h3 align="left">💾 Databases</h3>
+      <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ Tools & IDEs</h3>
+      <h3 align="left">🛠️ Tools & IDEs</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60"/>
