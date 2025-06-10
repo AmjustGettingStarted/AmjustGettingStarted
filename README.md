@@ -65,7 +65,7 @@
 
 ---
 
-### 🌐 You can also find me on:
+### 🌐 You can also find me on...
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshithmv/" target="_blank">
