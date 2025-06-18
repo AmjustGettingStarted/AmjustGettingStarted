@@ -122,9 +122,9 @@
 
 ### Laugh Byte
 
-Why was the function feeling sad? It didn’t return anything.
+- Why was the function feeling sad? It didn’t return anything.
 
-Why was the code sad? It had a lot of bugs.
+- Why was the code sad? It had a lot of bugs.
 
 Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.
 
