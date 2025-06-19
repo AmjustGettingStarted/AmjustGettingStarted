@@ -126,6 +126,6 @@
 
 - Why was the code sad? It had a lot of bugs.
 
-Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.
+- Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.
 
 
