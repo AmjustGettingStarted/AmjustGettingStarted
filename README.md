@@ -128,4 +128,6 @@
 
 - Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.
 
+There are 10 types of people: those who understand binary and those who don’t.
+
 
