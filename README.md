@@ -3,7 +3,7 @@
     <td align="left" width="65%">
       <h1>
         Hi 👋<br>
-        I'm HMV, a beginner web developer who enjoys learning and building websites.<br>
+        I'm H M V, a beginner web developer who enjoys learning and building websites.<br>
         I'm focused on writing clean code, improving my skills, and turning ideas into simple web projects.
       </h1>
     </td>
