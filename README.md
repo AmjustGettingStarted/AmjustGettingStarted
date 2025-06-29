@@ -136,3 +136,5 @@ huhuhuh
 - Why do Java developers wear glasses? Because they don’t C#
 
 - I told my computer I needed a break... > It said “You seem stressed. Want to install updates now?”
+
+- Why did the frontend developer break up with the backend developer? Because they didn’t get a response.
