@@ -1,67 +1,52 @@
 <table>
   <tr>
     <td align="left" width="65%">
-      <h1>
-        Hi 👋<br>
-        I'm HMV, a beginner web developer who enjoys learning and building websites.<br>
+      <h1>Hi 👋<br>I'm HMV</h1>
+      <p>
+        I'm a beginner web developer who enjoys learning and building websites.<br>
         I'm focused on writing clean code, improving my skills, and turning ideas into simple web projects.
-      </h1>
+      </p>
     </td>
     <td align="center" width="35%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRyaWhrYnlmZGg5YzI0emQ5bm50bWg3czB2bjA4ODd2YnpqaDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRyaWhrYnlmZGg5YzI0emQ5bm50bWg3czB2bjA4ODd2YnpqaDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="250" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 Tech Stack
+## Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 Languages</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚙️ Frameworks & Libraries</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="60"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">💾 Databases</h3>
-      <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🛠️ Tools & IDEs</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60"/>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🧠 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
 
+#### ⚙️ Frameworks & Libraries  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50"/>
+</p>
 
-</div>
+#### 💾 Databases  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
 
+#### 🛠️ Tools & IDEs  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+</p>
 
 ---
 
@@ -96,7 +81,11 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
+### 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -107,7 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmjustGettingStarted&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=AmjustGettingStarted&mode=daily&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=AmjustGettingStarted&theme=dracula&column=3&row=1" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&radius=10&theme=react&area=true" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&radius=10&theme=react&area=true" height="500" />
 </p>
 
 ---
@@ -120,20 +109,16 @@
 
 ---
 
-### Laugh Byte
+### 😂 Laugh Byte
 
-- Why was the function feeling sad? It didn’t return anything.
-
-- Why was the code sad? It had a lot of bugs.
-
-- Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.
-
-- There are 10 types of people: those who understand binary and those who don’t.
-
-- Why was the computer cold? It left its Windows open.
-
-- Why do Java developers wear glasses? Because they don’t C#
-
-- I told my computer I needed a break... > It said “You seem stressed. Want to install updates now?”
-
+- Why was the function feeling sad? It didn’t return anything.  
+- Why was the code sad? It had a lot of bugs.  
+- Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.  
+- There are 10 types of people: those who understand binary and those who don’t.  
+- Why was the computer cold? It left its Windows open.  
+- Why do Java developers wear glasses? Because they don’t C#.  
+- I told my computer I needed a break... It said “You seem stressed. Want to install updates now?”  
 - Why did the frontend developer break up with the backend developer? Because they didn’t get a response.
+
+---
+
