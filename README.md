@@ -109,13 +109,7 @@
 
 ---
 
-### 😂 Laugh Byte
 
-- Why was the function feeling sad? It didn’t return anything.  
-- Why was the code sad? It had a lot of bugs.  
-- Why did the React developer get kicked out of the restaurant? Because they kept rendering everything.  
-- There are 10 types of people: those who understand binary and those who don’t.  
-- Why was the computer cold? It left its Windows open.  
 - Why do Java developers wear glasses? Because they don’t C#.  
 - I told my computer I needed a break... It said “You seem stressed. Want to install updates now?”  
 - Why did the frontend developer break up with the backend developer? Because they didn’t get a response.
