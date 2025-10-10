@@ -15,6 +15,12 @@
 
 ---
 
+### 🏅 My Holopin Badge Board
+
+[![An image of @amjustgettingstarted's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
+
+---
+
 ## Skills
 
 #### 🧠 Languages  
@@ -106,6 +112,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg?" />
 </p>
-
----
-
