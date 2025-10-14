@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="80" viewBox="0 0 1600 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pink wave divider">
+  <defs>
+    <linearGradient id="pinkWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff61d6"/>
+      <stop offset="100%" stop-color="#ff2d95"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g opacity="0.9" filter="url(#glow)">
+    <path d="M0 40 C 250 0 450 80 800 40 C 1150 0 1350 80 1600 40" fill="none" stroke="url(#pinkWave)" stroke-width="4"/>
+  </g>
+</svg>
