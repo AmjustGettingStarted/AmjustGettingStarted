@@ -1,114 +1,63 @@
-<table>
-  <tr>
-    <td align="left" width="65%">
-      <h1>Hi 👋<br>I'm HMV</h1>
-      <p>
-        I'm a beginner web developer who enjoys learning and building websites.<br>
-        I'm focused on writing clean code, improving my skills, and turning ideas into simple web projects.
-      </p>
-    </td>
-    <td align="center" width="35%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRyaWhrYnlmZGg5YzI0emQ5bm50bWg3czB2bjA4ODd2YnpqaDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="250" />
-    </td>
-  </tr>
-</table>
+## Black × Pink — Modern, Sexy Portfolio
+
+A high-contrast, editorial-feel, black × pink themed portfolio. It features a cinematic hero, grouped skills with interactive chips, a refined projects grid with subtle 3D tilt, buttery scroll‑reveal animations, and an accessible, sticky navigation that adapts on scroll.
+
+### Highlights
+- **Striking theme**: Deep black base with electric pink accents and glow orbs
+- **Hero that sells**: Bold typography, tasteful gradients, and focused CTAs
+- **Grouped skills**: Domain‑based cards with interactive, ripple chips
+- **Projects grid**: Premium hover and tilt interactions (respects reduced motion)
+- **Sticky, smart nav**: Scrollspy highlights, mobile drawer, and skip link
+- **Performance‑minded**: Lightweight, no framework, just HTML/CSS/JS
+- **SEO‑ready**: OG/Twitter meta, favicon, theme‑color, share card (SVG)
+- **Accessible defaults**: Focus styles, ARIA, and reduced‑motion safeguards
+
+### Project Structure
+```
+.
+├─ index.html            # Main page
+├─ styles/
+│  └─ main.css          # Theme, layout, components, animations
+├─ scripts/
+│  └─ main.js           # Nav, reveal, tilt, chips, scrollspy
+└─ assets/
+   └─ svg/
+      ├─ favicon.svg    # Favicon (SVG)
+      └─ og-card.svg    # Open Graph share image (SVG)
+```
+
+### Quick Start
+- **Open directly**: Double‑click `index.html` (most browsers allow local file URLs).
+- **Serve locally (recommended)**:
+  - Python: `python3 -m http.server 5173` then visit `http://localhost:5173`
+  - Node (serve): `npx serve -l 5173` then visit `http://localhost:5173`
+
+### Customize
+- **Brand**: Edit the `BLACK×PINK` wordmark in `index.html` and `assets/svg/og-card.svg`.
+- **Hero copy/CTAs**: Update the hero `<h1>`, `.lede`, and buttons in `index.html`.
+- **Skills**: Modify the grouped skills in the `#skills` section.
+- **Projects**: Replace the four sample project cards and thumbnails.
+- **Contact form**: Form is ready for Netlify (`data-netlify="true"`). You can remove it or wire it to your backend.
+- **Colors**: Tweak CSS variables in `styles/main.css` (`--pink`, `--bg`, etc.).
+- **Motion**: Adjust scroll‑reveal/tilt in `scripts/main.js`; users with reduced‑motion are respected.
+- **SEO**: Update meta description in `index.html`. Replace `assets/svg/og-card.svg` with your own (1200×630 recommended).
+
+### Deployment
+- **GitHub Pages**
+  1. Push this folder to a GitHub repo.
+  2. In repo Settings → Pages, set Source to `main` and root `/`.
+  3. Your site will be live at `https://<user>.github.io/<repo>/`.
+- **Netlify**
+  1. Drag‑and‑drop the folder onto Netlify, or connect your repo.
+  2. No build command needed; publish directory is the repo root.
+  3. For the contact form, Netlify will auto‑detect `data-netlify`.
+- **Vercel**
+  1. Import the repo in Vercel.
+  2. Framework preset: Other; Output directory: `/`.
+
+### Inspiration
+Built with influences from editorial portfolios, premium e‑commerce, and motion design systems. Minimal, confident, conversion‑first.
 
 ---
 
-### 🏅 My Holopin Badge Board
-
-[![An image of @amjustgettingstarted's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
-
----
-
-## Skills
-
-#### 🧠 Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</p>
-
-#### ⚙️ Frameworks & Libraries  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50"/>
-</p>
-
-#### 💾 Databases  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-</p>
-
-#### 🛠️ Tools & IDEs  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
-</p>
-
----
-
-### 🌐 You can also find me on:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshithmv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://t.me/yourtelegramusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://stackoverflow.com/users/21668948/justgettingstarted" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.twitch.tv/imxgreeed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</p>
-
----
-
-### 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmjustGettingStarted&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=AmjustGettingStarted&mode=daily&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=AmjustGettingStarted&theme=dracula&column=3&row=1" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&radius=10&theme=react&area=true" height="500" />
-</p>
-
----
-
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg?" />
-</p>
+If you want me to tailor this to your personal content (social links, real projects, or a custom logo), say the word and I’ll wire it up.
