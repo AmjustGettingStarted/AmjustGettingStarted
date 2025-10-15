@@ -1,195 +1,276 @@
 <div align="center">
 
-# HI, I'M HMV
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header" />
 
-### *Code. Create. Conquer.*
+# **HMV**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&customColorList=0&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
-
-<div align="center">
-  
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║     FULL-STACK DEVELOPER  |  CODE ARCHITECT  |  BUILDER  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
-Building the Future One Commit at a Time
-```
+
+**`> Turning caffeine into code since forever`**
 
 </div>
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  
-### FULL-STACK DEVELOPER
-  
-**Crafting pixel-perfect experiences**  
-**with bleeding-edge tech**
+## **WHO AM I?**
 
 ```typescript
-const HMV = {
-    code: ["JavaScript", "TypeScript", "Java"],
-    focus: "Web Development",
-    vibe: "Dark Mode Enthusiast",
-    mission: "Clean Code & Creative Solutions"
-};
+class Developer {
+    name = "HMV";
+    role = "Full-Stack Developer";
+    
+    tech = {
+        frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
+        backend: ["Java", "Spring Boot"],
+        database: ["MySQL"],
+        tools: ["Git", "VS Code", "IntelliJ"]
+    };
+    
+    currentFocus = "Building scalable web applications";
+    lifePhilosophy = "Write code that doesn't suck";
+    
+    getStatus() {
+        return "Available for interesting projects";
+    }
+}
 ```
 
+<br>
+
+<div align="center">
+
+## **TECH STACK**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite" />
+
 </td>
-<td width="50%" align="center">
-  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRyaWhrYnlmZGg5YzI0emQ5bm50bWg3czB2bjA4ODd2YnpqaDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="280"/>
+<td align="center" width="25%">
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=java,spring" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,nodejs" />
+
+</td>
+<td align="center" width="25%">
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</td>
+<td align="center" width="25%">
+
+**LEARNING**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,redis" />
 
 </td>
 </tr>
 </table>
+
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 <div align="center">
 
-## ACHIEVEMENT BOARD
+## **GITHUB STATISTICS**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmjustGettingStarted&theme=dark&hide_border=true&background=000000&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=FFFFFF" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjustGettingStarted&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&bg_color=000000&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+## **RECENT ACTIVITY**
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+<div align="center">
+
+## **FEATURED PROJECTS**
+
+<table>
+<tr>
+<td width="50%">
+
+### **Project Alpha**
+Modern web application built with Next.js and TypeScript. Features real-time updates and responsive design.
+
+**Tech:** Next.js, TypeScript, Tailwind
+
+[`View Repository →`](#)
+
+</td>
+<td width="50%">
+
+### **Project Beta**
+RESTful API backend with Spring Boot. Implements JWT authentication and database optimization.
+
+**Tech:** Java, Spring Boot, MySQL
+
+[`View Repository →`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **Project Gamma**
+Full-stack e-commerce platform with payment integration and admin dashboard.
+
+**Tech:** React, Node.js, MongoDB
+
+[`View Repository →`](#)
+
+</td>
+<td width="50%">
+
+### **Project Delta**
+Developer tool for code analysis and documentation generation.
+
+**Tech:** TypeScript, Vite, D3.js
+
+[`View Repository →`](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+## **ACHIEVEMENTS**
 
 [![Holopin Badge Board](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
 
-</div>
-
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br>
-
-<div align="center">
-
-## TECH ARSENAL
-
-</div>
-
-<div align="center">
-
-### FRONTEND MASTERY
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,vite&theme=dark&perline=8" />
-
-<br><br>
-
-### BACKEND & TOOLS
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,idea&theme=dark&perline=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmjustGettingStarted&theme=darkhub&no-frame=true&no-bg=false&column=7&rank=-C,-B" />
 
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 <div align="center">
 
-## CONNECT WITH ME
+## **CODE ACTIVITY**
+
+<img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+## **CONNECT**
 
 <a href="https://www.linkedin.com/in/harshithmv/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" height="35" />
 </a>
 <a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" />
 </a>
 <a href="https://stackoverflow.com/users/21668948/justgettingstarted">
-  <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" />
+</a>
+<a href="https://github.com/AmjustGettingStarted">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" height="35" />
 </a>
 <a href="https://www.instagram.com/yourinstagram/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" />
 </a>
 <a href="https://discordapp.com/users/yourdiscordid">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" />
 </a>
 <a href="https://www.twitch.tv/imxgreeed">
-  <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" />
 </a>
 <a href="https://www.youtube.com/@yourchannel">
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF1493" height="32"/>
-</a>
-<a href="https://t.me/yourtelegramusername">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF1493" height="32"/>
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" />
 </a>
 
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br>
-
 <div align="center">
 
-## CONTRIBUTION GRAPH
+## **DAILY DEV QUOTE**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg">
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20code%20is%20no%20code%20at%20all&author=Jeff%20Atwood" />
 
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 <div align="center">
 
-## GITHUB ANALYTICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmjustGettingStarted&theme=dark&hide_border=true&background=000000&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&sideLabels=FF1493&dates=FFFFFF" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjustGettingStarted&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF1493&text_color=FFFFFF&langs_count=8" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=AmjustGettingStarted&theme=darkhub&no-frame=true&no-bg=true&column=4&row=1" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&custom_title=Contribution%20Graph&bg_color=000000&color=FF1493&line=FF1493&point=FFFFFF&area_color=FF1493&area=true&hide_border=true" width="98%"/>
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br>
-
-<div align="center">
-
-## VISITOR ANALYTICS
+### **VISITOR COUNT**
 
 <img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg" />
 
 <br><br>
 
-### *Thank you for visiting*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&customColorList=0&height=100&section=footer&text=&fontSize=0" width="100%"/>
+**`> Thanks for stopping by. Now go build something amazing.`**
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer" />
 
 </div>
