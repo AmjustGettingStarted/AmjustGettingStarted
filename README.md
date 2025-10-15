@@ -1,114 +1,321 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=SYSTEM%20ACCESS%20GRANTED&fontSize=40&fontColor=00FF00&animation=twinkling&fontAlignY=38&desc=INITIALIZING...&descAlignY=55&descAlign=50" />
+
+```
+01001000 01001101 01010110 00100000 01010011 01011001 01010011 01010100 01000101 01001101
+```
+
+# **[ HMV ]**
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  > ACCESSING MAINFRAME...                            [ OK ] ║
+║  > LOADING PROFILE...                                [ OK ] ║
+║  > ESTABLISHING CONNECTION...                        [ OK ] ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**`root@github:~$ whoami`**
+
+</div>
+
+<br>
+
+## **[ SYSTEM INFORMATION ]**
+
+```bash
+┌──(hmv㉿github)-[~]
+└─$ cat /etc/developer.conf
+
+USER="HMV"
+ROLE="Full-Stack Developer"
+STATUS="Online"
+CLEARANCE="Level 99"
+MISSION="Build. Break. Rebuild."
+
+SKILLS=(
+    "JavaScript" "TypeScript" "Java"
+    "React" "Next.js" "Spring Boot"
+    "MySQL" "Git" "VS Code"
+)
+
+function execute() {
+    while true; do
+        code && coffee && repeat
+    done
+}
+```
+
+<br>
+
+<div align="center">
+
+## **[ TECH ARSENAL ]**
+
+</div>
+
+```diff
++ FRONTEND WEAPONS
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite&theme=dark&perline=8" />
+</div>
+
+```diff
++ BACKEND WEAPONS  
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark&perline=6" />
+</div>
+
+```diff
++ TOOLS & UTILITIES
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker&theme=dark&perline=6" />
+</div>
+
+<br>
+
+```
+████████████████████████████████████████████████████████████████████████████████
+```
+
+<br>
+
+<div align="center">
+
+## **[ SYSTEM METRICS ]**
+
+```bash
+root@github:~$ ./display_stats.sh
+```
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmjustGettingStarted&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjustGettingStarted&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=ACTIVITY%20LOG" />
+
+</div>
+
+<br>
+
+```
+████████████████████████████████████████████████████████████████████████████████
+```
+
+<br>
+
+<div align="center">
+
+## **[ RECENT OPERATIONS ]**
+
+```bash
+root@github:~$ git log --oneline --graph
+```
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+<div align="center">
+
+## **[ MISSION ARCHIVES ]**
+
+</div>
+
 <table>
-  <tr>
-    <td align="left" width="65%">
-      <h1>Hi 👋<br>I'm HMV</h1>
-      <p>
-        I'm a beginner web developer who enjoys learning and building websites.<br>
-        I'm focused on writing clean code, improving my skills, and turning ideas into simple web projects.
-      </p>
-    </td>
-    <td align="center" width="35%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRyaWhrYnlmZGg5YzI0emQ5bm50bWg3czB2bjA4ODd2YnpqaDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="250" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+```bash
+┌─[PROJECT_ALPHA]
+│
+├─ STATUS: Active
+├─ STACK: Next.js + TypeScript
+├─ DESC: Enterprise web platform
+│  with real-time capabilities
+│
+└─ [ACCESS REPO →]
+```
+
+</td>
+<td width="50%">
+
+```bash
+┌─[PROJECT_BETA]
+│
+├─ STATUS: Deployed
+├─ STACK: Spring Boot + MySQL
+├─ DESC: RESTful API with JWT
+│  authentication system
+│
+└─ [ACCESS REPO →]
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```bash
+┌─[PROJECT_GAMMA]
+│
+├─ STATUS: In Progress
+├─ STACK: React + Node.js
+├─ DESC: E-commerce platform
+│  with payment gateway
+│
+└─ [ACCESS REPO →]
+```
+
+</td>
+<td width="50%">
+
+```bash
+┌─[PROJECT_DELTA]
+│
+├─ STATUS: Completed
+├─ STACK: TypeScript + Vite
+├─ DESC: Developer tooling for
+│  code analysis
+│
+└─ [ACCESS REPO →]
+```
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-### 🏅 My Holopin Badge Board
+```
+████████████████████████████████████████████████████████████████████████████████
+```
 
-[![An image of @amjustgettingstarted's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
+<br>
 
----
+<div align="center">
 
-## Skills
+## **[ ACHIEVEMENTS UNLOCKED ]**
 
-#### 🧠 Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</p>
+[![Holopin Badge Board](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
 
-#### ⚙️ Frameworks & Libraries  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50"/>
-</p>
+<br>
 
-#### 💾 Databases  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=AmjustGettingStarted&theme=matrix&no-frame=true&no-bg=false&column=7&rank=-C,-B" />
 
-#### 🛠️ Tools & IDEs  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
-</p>
+</div>
 
----
+<br>
 
-### 🌐 You can also find me on:
+```
+████████████████████████████████████████████████████████████████████████████████
+```
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshithmv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://t.me/yourtelegramusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://stackoverflow.com/users/21668948/justgettingstarted" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.twitch.tv/imxgreeed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</p>
+<br>
 
----
+<div align="center">
 
-### 🐍 Snake Contribution Animation
+## **[ NETWORK ACTIVITY ]**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
-</p>
+```bash
+root@github:~$ ./monitor_contributions.sh
+```
 
----
+<img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Contribution snake" />
 
-### 📊 My GitHub Stats:
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmjustGettingStarted&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=AmjustGettingStarted&mode=daily&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=AmjustGettingStarted&theme=dracula&column=3&row=1" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&radius=10&theme=react&area=true" height="500" />
-</p>
+<br>
 
----
+```
+████████████████████████████████████████████████████████████████████████████████
+```
 
-### 👀 Visitor Count
+<br>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg?" />
-</p>
+<div align="center">
+
+## **[ ESTABLISH CONNECTION ]**
+
+```bash
+root@github:~$ ./connect.sh --target=social_networks
+```
+
+<a href="https://www.linkedin.com/in/harshithmv/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" height="35" />
+</a>
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" height="35" />
+</a>
+<a href="https://stackoverflow.com/users/21668948/justgettingstarted">
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF00" height="35" />
+</a>
+<a href="https://github.com/AmjustGettingStarted">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" height="35" />
+</a>
+<a href="https://www.instagram.com/yourinstagram/">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00" height="35" />
+</a>
+<a href="https://discordapp.com/users/yourdiscordid">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00" height="35" />
+</a>
+<a href="https://www.twitch.tv/imxgreeed">
+<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00FF00" height="35" />
+</a>
+<a href="https://www.youtube.com/@yourchannel">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" height="35" />
+</a>
+
+</div>
+
+<br>
+
+```
+████████████████████████████████████████████████████████████████████████████████
+```
+
+<br>
+
+<div align="center">
+
+## **[ SECURITY LOG ]**
+
+```bash
+root@github:~$ cat /var/log/visitors.log
+```
+
+<img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg" />
+
+```bash
+[INFO] Connection established successfully
+[INFO] Profile accessed from: <YOUR_IP>
+[INFO] Session duration: <CALCULATING...>
+[SUCCESS] Data transfer complete
+
+> Thanks for accessing the system.
+> Now go build something legendary.
+
+[SYSTEM] Closing connection...
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&text=CONNECTION%20TERMINATED&fontSize=35&fontColor=00FF00&animation=twinkling&fontAlignY=70" />
+
+</div>
+
+```
+01000101 01001110 01000100 00100000 01001111 01000110 00100000 01000110 01001001 01001100 01000101
+```
