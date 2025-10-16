@@ -126,6 +126,3 @@ Exploring frameworks, crafting responsive layouts, and learning how small ideas 
 
 ---
 
-<h3 align="center">
-  ✨ Built with ❤️ & pink neon by <b>HMV</b> ✨
-</h3>
