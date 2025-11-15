@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header" />
@@ -7,12 +8,12 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║     FULL-STACK DEVELOPER  |  CODE ARCHITECT  |  BUILDER  ║
+║     FULL-STACK DEVELOPER  |  FRONT END   |  UI DEVELOPER  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+````
 
-**`> Turning caffeine into code since forever`**
+**`> Learning, building, and improving—one commit at a time`**
 
 </div>
 
@@ -24,16 +25,17 @@
 class Developer {
     name = "HMV";
     role = "Full-Stack Developer";
-    
+
     tech = {
-        frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
-        backend: ["Java", "Spring Boot"],
-        database: ["MySQL"],
-        tools: ["Git", "VS Code", "IntelliJ"]
+        frontend: ["Next.js", "React", "TypeScript", "JavaScript", "Tailwind", "Shadcn/UI"],
+        backend: ["Java", "Spring Boot", "Node.js"],
+        database: ["MySQL", "PostgreSQL", "Supabase", "Prisma"],
+        tools: ["Git", "GitHub", "VS Code", "IntelliJ", "Postman", "Chrome DevTools", "Vercel"],
+        auth: ["Clerk"]
     };
-    
-    currentFocus = "Building scalable web applications";
-    lifePhilosophy = "Write code that doesn't suck";
+
+    currentFocus = "Building scalable SaaS products and full-stack applications";
+    philosophy = "Clean code, clarity, and consistency matter";
     
     getStatus() {
         return "Available for interesting projects";
@@ -47,37 +49,30 @@ class Developer {
 
 ## **TECH STACK**
 
-<table>
+<table style="width:100%;">
 <tr>
 <td align="center" width="25%">
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" /><br>
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite" />
-
+<b>FRONTEND</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite" />
 </td>
+
 <td align="center" width="25%">
-
-**BACKEND**
-
-<img src="https://skillicons.dev/icons?i=java,spring" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs" />
-
+<b>BACKEND</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,prisma" />
 </td>
+
 <td align="center" width="25%">
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-
+<b>DATABASES</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </td>
+
 <td align="center" width="25%">
-
-**LEARNING**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,redis" />
-
+<b>TOOLS</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel" />
 </td>
 </tr>
 </table>
@@ -112,67 +107,68 @@ class Developer {
 
 <div align="center">
 
-## **RECENT ACTIVITY**
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
-
-<div align="center">
-
 ## **FEATURED PROJECTS**
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
+
 <tr>
-<td width="50%">
 
-### **Project Alpha**
-Modern web application built with Next.js and TypeScript. Features real-time updates and responsive design.
+<td width="50%" valign="top" style="padding: 20px; vertical-align: top;">
 
-**Tech:** Next.js, TypeScript, Tailwind
+### **Inkspire – AI Content Platform**
 
-[`View Repository →`](#)
+AI-powered content creation platform built with Next.js, Clerk, Convex, and Gemini API.
 
-</td>
-<td width="50%">
-
-### **Project Beta**
-RESTful API backend with Spring Boot. Implements JWT authentication and database optimization.
-
-**Tech:** Java, Spring Boot, MySQL
-
-[`View Repository →`](#)
+**Tech:** Next.js, TypeScript, Tailwind, Shadcn/UI, Clerk, Convex, Gemini API  
+<br>
+[`View Repository →`](https://github.com/AmjustGettingStarted/inkspire)
 
 </td>
+
+<td width="50%" valign="top" style="padding: 20px; vertical-align: top;">
+
+### **GeminiAI – Car Marketplace**
+
+Platform that extracts car details using AI and supports secure listings with Prisma + Postgres.
+
+**Tech:** Next.js, Tailwind, Prisma, PostgreSQL, Clerk, Gemini API  
+<br>
+[`View Repository →`](https://github.com/AmjustGettingStarted/geminiai-car-marketplace)
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%">
 
-### **Project Gamma**
-Full-stack e-commerce platform with payment integration and admin dashboard.
+<td width="50%" valign="top" style="padding: 20px; vertical-align: top;">
 
-**Tech:** React, Node.js, MongoDB
+### **ConsultX – Doctors Appointment Platform**
 
-[`View Repository →`](#)
+Multi-role appointment platform with authentication, subscriptions, and payout workflows.
 
-</td>
-<td width="50%">
-
-### **Project Delta**
-Developer tool for code analysis and documentation generation.
-
-**Tech:** TypeScript, Vite, D3.js
-
-[`View Repository →`](#)
+**Tech:** Next.js, Shadcn/UI, Prisma, PostgreSQL, Clerk, PayPal API  
+<br>
+[`View Repository →`](https://github.com/AmjustGettingStarted/consultx)
 
 </td>
+
+<td width="50%" valign="top" style="padding: 20px; vertical-align: top;">
+
+### **Additional Projects**
+
+More projects available on my GitHub profile.
+
+[`Explore All →`](https://github.com/AmjustGettingStarted)
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
+
 
 <br>
 
@@ -186,9 +182,9 @@ Developer tool for code analysis and documentation generation.
 
 [![Holopin Badge Board](https://holopin.me/amjustgettingstarted)](https://holopin.io/@amjustgettingstarted)
 
-<br>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmjustGettingStarted&theme=darkhub&no-frame=true&no-bg=false&column=7&rank=-C,-B" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmjustGettingStarted&theme=darkhub&no-frame=true&no-bg=false&column=4&row=2" />
 
 </div>
 
@@ -217,53 +213,28 @@ Developer tool for code analysis and documentation generation.
 ## **CONNECT**
 
 <a href="https://www.linkedin.com/in/harshithmv/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" height="35" /></a>
+
 <a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://stackoverflow.com/users/21668948/justgettingstarted">
-<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://github.com/AmjustGettingStarted">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://www.instagram.com/yourinstagram/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://discordapp.com/users/yourdiscordid">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://www.twitch.tv/imxgreeed">
-<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" />
-</a>
+<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" /></a>
+
 <a href="https://www.youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## **DAILY DEV QUOTE**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20code%20is%20no%20code%20at%20all&author=Jeff%20Atwood" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
-### **VISITOR COUNT**
-
-<img src="https://profile-counter.glitch.me/AmjustGettingStarted/count.svg" />
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" /></a>
 
 <br><br>
 
