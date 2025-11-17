@@ -203,25 +203,25 @@ More projects available on my GitHub profile.
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" height="35" /></a>
 
 <a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io-badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://stackoverflow.com/users/21668948/justgettingstarted">
-<img src="https://img.shields.io-badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://github.com/AmjustGettingStarted">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.instagram.com/yourinstagram/">
-<img src="https://img.shields.io-badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://discordapp.com/users/yourdiscordid">
-<img src="https://img.shields.io-badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.twitch.tv/imxgreeed">
-<img src="https://img.shields.io-badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.youtube.com/@yourchannel">
-<img src="https://img.shields.io-badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" /></a>
 
 <br><br>
 
