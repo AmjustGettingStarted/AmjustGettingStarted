@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header" />
@@ -45,59 +44,55 @@ class Developer {
 
 <br>
 
-<div align="center">
-
 ## **TECH STACK**
+<div align="center">
 
 <table style="width:100%;">
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="25%" valign="top">
 <b>FRONTEND</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" /><br>
+<img src="https://skillicons.dev/icons?i=js,tailwind,html" /><br>
+<img src="https://skillicons.dev/icons?i=css,vite,shadcn" />
+
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <b>BACKEND</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,prisma" />
+
+<img src="https://skillicons.dev/icons?i=java,spring" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma" />
+
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <b>DATABASES</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+<img src="https://skillicons.dev/icons?i=supabase" />
+
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <b>TOOLS</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=idea,postman" /><br>
+<img src="https://skillicons.dev/icons?i=vercel" />
+
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
-## **GITHUB STATISTICS**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmjustGettingStarted&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmjustGettingStarted&theme=dark&hide_border=true&background=000000&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=FFFFFF" />
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjustGettingStarted&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmjustGettingStarted&bg_color=000000&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
 
 <br>
 
@@ -119,8 +114,7 @@ class Developer {
 
 AI-powered content creation platform built with Next.js, Clerk, Convex, and Gemini API.
 
-**Tech:** Next.js, TypeScript, Tailwind, Shadcn/UI, Clerk, Convex, Gemini API  
-<br>
+**Tech:** Next.js, TypeScript, Tailwind, Shadcn/UI, Clerk, Convex, Gemini API <br>
 [`View Repository →`](https://github.com/AmjustGettingStarted/inkspire)
 
 </td>
@@ -131,8 +125,7 @@ AI-powered content creation platform built with Next.js, Clerk, Convex, and Gemi
 
 Platform that extracts car details using AI and supports secure listings with Prisma + Postgres.
 
-**Tech:** Next.js, Tailwind, Prisma, PostgreSQL, Clerk, Gemini API  
-<br>
+**Tech:** Next.js, Tailwind, Prisma, PostgreSQL, Clerk, Gemini API <br>
 [`View Repository →`](https://github.com/AmjustGettingStarted/geminiai-car-marketplace)
 
 </td>
@@ -147,8 +140,7 @@ Platform that extracts car details using AI and supports secure listings with Pr
 
 Multi-role appointment platform with authentication, subscriptions, and payout workflows.
 
-**Tech:** Next.js, Shadcn/UI, Prisma, PostgreSQL, Clerk, PayPal API  
-<br>
+**Tech:** Next.js, Shadcn/UI, Prisma, PostgreSQL, Clerk, PayPal API <br>
 [`View Repository →`](https://github.com/AmjustGettingStarted/consultx)
 
 </td>
@@ -168,7 +160,6 @@ More projects available on my GitHub profile.
 </table>
 
 </div>
-
 
 <br>
 
@@ -216,25 +207,25 @@ More projects available on my GitHub profile.
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6B00" height="35" /></a>
 
 <a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://stackoverflow.com/users/21668948/justgettingstarted">
-<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://github.com/AmjustGettingStarted">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.instagram.com/yourinstagram/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://discordapp.com/users/yourdiscordid">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.twitch.tv/imxgreeed">
-<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=FF6B00" height="35" /></a>
 
 <a href="https://www.youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" /></a>
+<img src="https://img.shields.io-badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF6B00" height="35" /></a>
 
 <br><br>
 
