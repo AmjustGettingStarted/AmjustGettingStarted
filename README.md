@@ -44,8 +44,9 @@ class Developer {
 
 <br>
 
-## **TECH STACK**
 <div align="center">
+
+## **TECH STACK**
 
 <table style="width:100%;">
 <tr>
@@ -53,45 +54,40 @@ class Developer {
 <td align="center" width="25%" valign="top">
 <b>FRONTEND</b>
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts" /><br>
-<img src="https://skillicons.dev/icons?i=js,tailwind,html" /><br>
-<img src="https://skillicons.dev/icons?i=css,vite,shadcn" />
-
+<img src="https://skillicons.dev/icons?i=nextjs,react" /><br>
+<img src="https://skillicons.dev/icons?i=ts,js" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,html" /><br>
+<img src="https://skillicons.dev/icons?i=css,vite" /><br>
+<img src="https://skillicons.dev/icons?i=shadcn" />
 </td>
 
 <td align="center" width="25%" valign="top">
 <b>BACKEND</b>
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=java,spring" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,prisma" />
-
 </td>
 
 <td align="center" width="25%" valign="top">
 <b>DATABASES</b>
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
 <img src="https://skillicons.dev/icons?i=supabase" />
-
 </td>
 
 <td align="center" width="25%" valign="top">
 <b>TOOLS</b>
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
-<img src="https://skillicons.dev/icons?i=idea,postman" /><br>
-<img src="https://skillicons.dev/icons?i=vercel" />
-
+<img src="https://skillicons.dev/icons?i=git,github" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,idea" /><br>
+<img src="https://skillicons.dev/icons?i=postman,vercel" />
 </td>
 
 </tr>
 </table>
 
 </div>
+
 
 
 <br>
