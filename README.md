@@ -225,7 +225,7 @@ More projects available on my GitHub profile.
 
 <br><br>
 
-**`> Thanks for stopping by. Now go build something amazing.`**
+**`> Thanks for checking out my work. You can reach me anytime.`**
 
 <br>
 
