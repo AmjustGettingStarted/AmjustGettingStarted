@@ -187,6 +187,26 @@ More projects available on my GitHub profile.
 
 <img src="https://raw.githubusercontent.com/AmjustGettingStarted/AmjustGettingStarted/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=AmjustGettingStarted&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmjustGettingStarted&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 </div>
 
 <br>
