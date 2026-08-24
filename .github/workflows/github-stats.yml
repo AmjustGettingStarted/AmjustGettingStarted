@@ -1,0 +1,40 @@
+name: Update Terminal Stats Card
+
+on:
+  schedule:
+    # Runs once every 24 hours at 02:47 UTC
+    - cron: '47 2 * * *'
+  workflow_dispatch: # Allows manual run from the Actions tab
+
+permissions:
+  contents: write # Required to push the updated SVG back to the repo
+
+jobs:
+  build-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Generate SVG Terminal Stats Card
+        uses: yogeshwaran01/github-stats-terminal-style@master
+        with:
+          username: AmjustGettingStarted
+          token: ${{ secrets.GHT }}
+          theme: dracula
+          headerStyle: mac
+          hostname: hmv.dev
+          typingSpeed: "60"
+          commands: whoami,neofetch,languages,top-repos,uptime,exit
+          outputPath: assets/github_stats.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github_stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update terminal stats card [skip ci]" && git push)
