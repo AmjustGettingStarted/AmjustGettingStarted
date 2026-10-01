@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate SVG Terminal Stats Card
-        uses: yogeshwaran01/github-stats-terminal-style@master
+        uses: yogeshwaran01/github-stats-terminal-style@v1.0.0
         with:
           username: AmjustGettingStarted
           token: ${{ secrets.GHT }}
